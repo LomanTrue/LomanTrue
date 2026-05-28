@@ -48,6 +48,7 @@
 | Проект | Описание | Стек |
 |---|---|---|
 | **[Database](https://github.com/LomanTrue/Database)** | Реляционная СУБД с парсером SQL: SELECT, JOIN, WHERE, CREATE/DROP TABLE, сохранение и загрузка состояния in-memory и в файл. | C++17, STL |
+| **[online-school-db](https://github.com/LomanTrue/online-school-db)** | Контейнеризированная БД онлайн-школы на PostgreSQL: 20+ сущностей, миграции Flyway, ролевая модель, мониторинг (Prometheus + Grafana), бэкапы. | PostgreSQL, Docker, Flyway, Prometheus, Grafana |
 | **[hamming-archiver](https://github.com/LomanTrue/hamming-archiver)** | CLI-архиватор с защитой от битовых ошибок на основе кодов Хэмминга. Кастомный бинарный формат, многофайловые архивы. | C++17, CMake |
 | **[Weather forecast](https://github.com/LomanTrue/Weather_forecast)** | Консольный прогноз погоды с автообновлением, переключением городов, чтением OMFL-конфига и работой с двумя REST API. | C++20, cpr, nlohmann/json |
 | **[Puzzle](https://github.com/LomanTrue/Puzzle)** | Игра «Пазл» на SFML: меню, несколько уровней сложности, таймер, своя графика. | C++20, SFML |
