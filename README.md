@@ -55,15 +55,6 @@
 
 ---
 
-## 📊 GitHub статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LomanTrue&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LomanTrue&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
 ## 🎓 Образование и достижения
 
 - **Университет ИТМО**, бакалавриат, 3 курс — *Разработка программного обеспечения*
