@@ -51,6 +51,7 @@
 | **[online-school-db](https://github.com/LomanTrue/online-school-db)** | Контейнеризированная БД онлайн-школы на PostgreSQL: 20+ сущностей, миграции Flyway, ролевая модель, мониторинг (Prometheus + Grafana), бэкапы. | PostgreSQL, Docker, Flyway, Prometheus, Grafana |
 | **[hamming-archiver](https://github.com/LomanTrue/hamming-archiver)** | CLI-архиватор с защитой от битовых ошибок на основе кодов Хэмминга. Кастомный бинарный формат, многофайловые архивы. | C++17, CMake |
 | **[Weather forecast](https://github.com/LomanTrue/Weather_forecast)** | Консольный прогноз погоды с автообновлением, переключением городов, чтением OMFL-конфига и работой с двумя REST API. | C++20, cpr, nlohmann/json |
+| **[MemoryPoolAllocator](https://github.com/LomanTrue/Allocator)** | STL-совместимый аллокатор с пулами блоков разного размера. Variadic-шаблоны, rule of five, header-only. | C++17 |
 | **[Puzzle](https://github.com/LomanTrue/Puzzle)** | Игра «Пазл» на SFML: меню, несколько уровней сложности, таймер, своя графика. | C++20, SFML |
 | **[Procedure Generation](https://github.com/LomanTrue/ProcedureGenerationUnity)**| Прототип процедурной генерации карты, состоящей из взаимосвязанных комнат. Используется BFS-обход, seed-based генерация и параметризуемая логика. | Unity, C# |
 | **[Multiplayer board game](https://github.com/LomanTrue/MultiplayerSocialBoardGame)** | Прототип сетевой пошаговой социальной игры с скрытыми ролями, реализованный с использованием Photon. | Unity, C#, Photon |
